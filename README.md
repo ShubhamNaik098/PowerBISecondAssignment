@@ -46,7 +46,8 @@ The report aims to answer:
 
 ## 📈 Sample Visuals
 
-[PowerBISecondAssignment.pdf](https://github.com/user-attachments/files/20504737/PowerBISecondAssignment.pdf)
+![image](https://github.com/user-attachments/assets/0653e0da-fdd9-44ba-b122-a9d5a40cc91f)
+
 
 
 ## 📄 License
