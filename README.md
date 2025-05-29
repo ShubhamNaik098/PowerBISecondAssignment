@@ -44,6 +44,11 @@ The report aims to answer:
 -  Is there any relationship between sleep and physical activity?
 -  What is the impact of smoking and alcohol on heart rate and blood pressure?
 
+## 📈 Sample Visuals
+
+[PowerBISecondAssignment.pdf](https://github.com/user-attachments/files/20504737/PowerBISecondAssignment.pdf)
+
+
 ## 📄 License
 
 This project is provided for educational and analytical purposes. Attribution required if reused.
