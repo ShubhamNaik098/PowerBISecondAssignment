@@ -46,7 +46,8 @@ The report aims to answer:
 
 ## 📈 Sample Visuals
 
-![image](https://github.com/user-attachments/assets/0653e0da-fdd9-44ba-b122-a9d5a40cc91f)
+![image](https://github.com/user-attachments/assets/e14c96d0-1282-4edb-82b5-8b35975dd6fe)
+
 
 
 
